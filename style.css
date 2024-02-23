@@ -1,32 +1,6 @@
-body{
+.center{
     text-align: center;
-    background-color:rgba(55, 0, 255, 0.637);
 }
-h1{
-    background-color:white
-}
-h2{
-    background-color:aqua
-}
-h3{
-    color: yellow;
-    text-align: right;
-    background-color:blueviolet
-}
-h4{
-    background-color:black
-}
-h5{
-    background-color:darkviolet
-}
-h6{
-    background-color:orange
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6{
-    font-size: 20px;
+.blue{
+    color: blue;
 }
